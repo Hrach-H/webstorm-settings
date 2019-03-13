@@ -1,0 +1,60 @@
+<application>
+  <component name="BuiltInServerOptions" allowUnsignedRequests="true" />
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Program Files/nodejs/node.exe">
+      <version-cache version="8.11.4" last-modified="1534325870000" />
+    </local-interpreter>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ColorChooser.RecentColors" value="243-134-48-255,,,37-42-45-255,,,102-115-122-255,,,176-190-197-255,,,102-106-108-255,,,190-191-192-255,,,48-43-38-255,,,75-63-83-255,,,17-123-106-255" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.697318" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="Darcula.savedEditorTheme" value="_@user_Atom One Dark" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="DiffRequestProcessor.BottomComponentSplitter" value="0.92738587" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="InstalledPluginsSearchHistory" value="settings&#10;sync&#10;rainbo" />
+    <property name="LayoutCode.optimizeImports" value="false" />
+    <property name="LayoutCode.rearrangeEntriesECMAScript 6" value="false" />
+    <property name="LayoutCode.rearrangeEntriesHTML" value="true" />
+    <property name="LayoutCode.rearrangeEntriesJSX Harmony" value="false" />
+    <property name="LayoutCode.rearrangeEntriesJavaScript 1.5" value="false" />
+    <property name="MTBoldTabs" value="false" />
+    <property name="MTBorderPopup" value="true" />
+    <property name="MTTabsHeight" value="42" />
+    <property name="PLUGIN_FILTER" value="sett&#10;brackets" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="SearchEveryWhereHistory" value="string&#10;cosmobet" />
+    <property name="SettingsSearchHistory" value="sync&#10;plugins&#10;account&#10;font&#10;localhost" />
+    <property name="TrendingPluginsSearchHistory" value="git&#10;css&#10;night owl&#10;theme&#10;Panayiotis" />
+    <property name="UpdatePluginsSearchHistory" value="git toolkit&#10;night owl" />
+    <property name="Vcs.Log.Text.Filter.History" value="filtered markets&#10;express bonus&#10;edit bet&#10;SDC-38870&#10;38791" />
+    <property name="Vcs.Push.Splitter.Proportion" value="0.73772454" />
+    <property name="WebStorm.enableDefaultTooltipFixes" value="true" />
+    <property name="WebStorm.enableSmartQuotes" value="true" />
+    <property name="WebStorm.initialConfigurationShown" value="true" />
+    <property name="com.chrisrm.idea.MaterialThemeUI.theme" value="MONOKAI" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="934" />
+    <property name="evlsprt3.182" value="16" />
+    <property name="evlsprt3.183" value="10" />
+    <property name="evlsprt3.WS-182.3569.4" value="11" />
+    <property name="evlsprt3.WS-182.3684.1" value="18" />
+    <property name="evlsprt3.WS-183.2153.10" value="18" />
+    <property name="evlsprt3.WS-183.2407.4" value="10" />
+    <property name="evlsprt3.WS-183.2635.17" value="15" />
+    <property name="exception.accepted.notices" value="182193a2" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Desktop/Patches/SDC-39133_-_HLS_Streaming.patch&#10;C:/Users/hrachya.hovsepyan/Desktop/Patches/SDC-39196_-_Full_Cover_separate_obj.patch&#10;C:/Users/hrachya.hovsepyan/Desktop/Patches/SDC-39196_-_Full_Cover_bet_types_with_Singles_Bets1.patch&#10;D:/WebstormProjects/web-platform&#10;D:/WebstormProjects/betshopmap&#10;D:/WebstormProjects/reactive-sportsbook&#10;D:/WebstormProjects/ramda_test&#10;D:/WebstormProjects/chrome-node/package.json&#10;C:/Users/hrachya.hovsepyan/Desktop/Patches/Live_overview_-_Periods_(stable).patch&#10;C:/Users/hrachya.hovsepyan/Desktop/Patches/Live_overview.patch&#10;C:/Users/hrachya.hovsepyan/Desktop/Patches/Live_overview_-_Periods.patch&#10;D:/WebstormProjects/complete-intro-to-react-v4&#10;D:/WebstormProjects/complete-intro-to-react_old&#10;D:/WebstormProjects/react-fem&#10;D:/WebstormProjects/react-refresh&#10;D:/WebstormProjects/react-mobile&#10;D:/WebstormProjects/react-test&#10;D:/WebstormProjects/react-test-app&#10;C:/Users/hrachya.hovsepyan/Desktop/Patches/Suggested_live_functionality7.patch&#10;D:/WebstormProjects/angular-project&#10;D:/WebstormProjects/angular6-test&#10;D:/WebstormProjects/tscript&#10;D:/WebstormProjects/web-project&#10;C:/Users/hrachya.hovsepyan/Desktop/Useful Code Snippets/settings.jar" />
+    <property name="file.gist.reindex.count" value="90594" />
+    <property name="fileTypeChangedCounter" value="32" />
+    <property name="javascript.return.tag" value="returns" />
+    <property name="mt.isShownWizard" value="true" />
+    <property name="mt.showStatisticsAgreement" value="true" />
+    <property name="selected.color.option.type" value="IDENTIFIER_UNDER_CARET_ATTRIBUTES" />
+    <property name="settings.code.style.selected.tab.HTML" value="Other" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+  </component>
+</application>
