@@ -17,14 +17,6 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Find">
-        <Item>
-          <IdeaActionID>ActivateFindToolWindow</IdeaActionID>
-          <ShortCut>'Alt+3'</ShortCut>
-          <Description>Find</Description>
-          <Count>14</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Paste">
         <Item>
           <IdeaActionID>$Paste</IdeaActionID>
@@ -46,7 +38,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
@@ -103,6 +95,14 @@
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
           <Count>11</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Find">
+        <Item>
+          <IdeaActionID>ActivateFindToolWindow</IdeaActionID>
+          <ShortCut>'Alt+3'</ShortCut>
+          <Description>Find</Description>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
