@@ -1,22 +1,11 @@
 <scheme name="_@user_Night Owl" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2019-03-13T11:34:40</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2018.3.5.0.0</property>
-    <property name="modified">2019-07-10T11:17:21</property>
+    <property name="modified">2019-07-10T16:46:24</property>
     <property name="originalScheme">Night Owl</property>
   </metaInfo>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
-  </console-font>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
-  </console-font>
-  <option name="CONSOLE_LIGATURES" value="true" />
-  <option name="CONSOLE_LINE_SPACING" value="1.2" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="addb67" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
